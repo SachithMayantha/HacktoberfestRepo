@@ -1,2 +1,2 @@
-# HacktoberfestRepo
+# HacktoberfestRepository
 Nothing
