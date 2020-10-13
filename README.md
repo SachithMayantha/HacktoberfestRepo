@@ -1,2 +1,2 @@
 # HacktoberfestRepo
-For learn purpose
+For learn purposed
